@@ -6,6 +6,7 @@ import Sky from '../models/Sky';
 import Bird from '../models/Bird';
 import Plane from '../models/Plane';
 import HomeInfo from '../components/HomeInfo';
+import SwipeIndicator from '../components/SwipeIndicator';
 
 import sakura from '../assets/sakura.mp3'
 import { a } from '@react-spring/three';
@@ -102,6 +103,7 @@ const Home = () => {
         
         ></img>
       </div>
+      <SwipeIndicator />
     </section>
   );
 }
