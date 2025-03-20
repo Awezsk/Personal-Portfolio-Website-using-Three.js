@@ -19,7 +19,7 @@ const About = () => {
       </div>
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
-          I'm an AI ML Data Scientist from India. I'm passionate about data science and
+          I'm an Web developer with Intrest in AI ML from India. I'm passionate about data science and
           machine learning.
         </p>
       </div>
