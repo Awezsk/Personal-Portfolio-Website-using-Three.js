@@ -19,8 +19,8 @@ const About = () => {
       </div>
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
-          I'm an Web developer with Intrest in AI ML from India. I'm passionate about data science and
-          machine learning.
+          I'm an IT Specialist with Intrest in AI ML from India. I'm passionate about data science and
+          machine learning and automation.
         </p>
       </div>
       <div className="py-10 flex flex-col ">
