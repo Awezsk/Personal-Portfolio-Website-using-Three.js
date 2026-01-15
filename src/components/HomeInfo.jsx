@@ -17,7 +17,7 @@ const renderContent = {
         <h1 className="sm:text-x1 sm:leading-snug text-center neo-brutalism-blue py-4 px-8 text-white mx-5">
             Hi, I am <span className="font-semibold">Awez Sheikh</span>👋
             <br />
-            An IT specialist With intrest in AI and ML and automation.
+            An MERN Full Stack Devloper specialist With intrest in AI and ML and automation.
             </h1>
     ),
     2: (
